@@ -1,0 +1,17 @@
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\bin\Debug\examenVoorbereiding.exe.config
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\bin\Debug\examenVoorbereiding.exe
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\bin\Debug\examenVoorbereiding.pdb
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\MainWindow.g.cs
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\App.g.cs
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding_MarkupCompile.cache
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding_MarkupCompile.lref
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\MainWindow.baml
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding.g.resources
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding.Properties.Resources.resources
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding.csproj.GenerateResource.Cache
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding.csproj.CoreCompileInputs.cache
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding.exe
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding.pdb
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\obj\Debug\examenVoorbereiding.csprojResolveAssemblyReference.cache
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\bin\Debug\MySql.Data.dll
+C:\Users\Slopsie\source\repos\eindprojectOefening-master\examenVoorbereiding\examenVoorbereiding\bin\Debug\MySql.Data.xml
